@@ -1,0 +1,3 @@
+app_name = "claims-from-toml"
+timeout_seconds = 45
+debug = false
